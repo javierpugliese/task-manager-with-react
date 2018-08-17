@@ -1,0 +1,34 @@
+{
+    "tasks": [
+        {
+            "title": "Task 1",
+            "responsible": "Javier Pugliese",
+            "description": "End this app tonight.",
+            "priority": "low"
+        },
+        {
+            "title": "Task 2",
+            "responsible": "Alice",
+            "description": "Make some sandwiches.",
+            "priority": "medium"
+        },
+        {
+            "title": "Task 3",
+            "responsible": "Bob",
+            "description": "Buy some beers.",
+            "priority": "high"
+        },
+        {
+            "title": "Task 4",
+            "responsible": "Josh",
+            "description": "Do the housework.",
+            "priority": "medium"
+        },
+        {
+            "title": "Task 5",
+            "responsible": "Mark",
+            "description": "Add backend.",
+            "priority": "high"
+        }
+    ]
+}
